@@ -1,0 +1,6 @@
+Location,Initial Mass (g),Gravel Mass (g),Fine Gravel Mass (g),Coarse Sand Mass (g),Medium Sand Mass (g),Fine Sand Mass (g),Very Fine Sand Mass (g),Silt and Clay Mass (g),Final Mass,Percent Gravel,Percent Fine Gravel,Percent Coarse Sand,Percent Medium Sand,Percent Fine Sand,Percent Very Fine Sand,Percent Silt and Clay,Sphericity,Angularity,Percent Geogenic,Percent Biogenic
+Dune Sand,46.64,0,0,0.12,4.39,38.39,3.22,0.06,46.18,0,0,0.0026,0.0941,0.8231,0.069,0.0013,3,2,0.89,0.09
+High Tide Line (Runnel),60.79,0.45,1.04,11.93,27.84,18.07,0.94,0,60.27,0.0074,0.0171,0.1962,0.458,0.2973,0.0155,0,2,2,0.72,0.28
+Beach Face/Swash Zone Sand,44.66,0.61,2.25,19.43,11.83,9.76,0.43,0,44.31,0.0137,0.0504,0.4351,0.2649,0.2185,0.0096,0,2,3,0.45,0.55
+Berm,39.6,8.54,8.72,12.56,5.06,4.24,0.09,0,39.21,0.2157,0.2202,0.3172,0.1278,0.1071,0.0023,0,1,4,0.25,0.75
+St. Augustine Shores Sand,52.49,0.32,0.09,0.39,7.12,41.09,2.8,0.09,51.9,0.0061,0.0017,0.0074,0.1356,0.7828,0.0533,0.0017,1,3,0.81,0.19
